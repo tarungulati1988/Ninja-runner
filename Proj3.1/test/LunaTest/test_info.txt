@@ -1,0 +1,14 @@
+Relevant files in this folder for Ninja Runner:
+
+	 lunatest.lua
+
+These contain tests for the respective files
+	 suite-map.lua
+	 suite-game.lua
+	 suite-jsonReadWrite.lua
+	 suite-loadsave.lua
+
+
+
+Note:
+Need to delete all other files
